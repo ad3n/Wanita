@@ -19,6 +19,28 @@ class Dictionary
             'jahat banget',
             'hibur aku dong',
             'minta maaf kek',
-        ]
+        ],
+        'gue jelek banget sih' => [
+            'bilang dong gue cantik',
+        ],
+        'ga usah ga perlu' => [
+            'bantuin kek',
+            'cuek banget',
+            'iya perlu lah',
+            'kamu gak peduli sama aku',
+        ],
+        'lo berubah banget' => [
+            'kangen lo yang dulu',
+        ],
+        'iya aku tau aku yang salah' =>[
+            'egois banget jadi cowok',
+        ],
+        'cie selamat ya' => [
+            'enak banget sih lo, coba gue aja'
+        ],
+        'oke, aku yang salah' => [
+            'dasar cowok egois',
+            'ini semua salahmu'
+        ],
     ];
 }
