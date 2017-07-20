@@ -42,5 +42,8 @@ class Dictionary
             'dasar cowok egois',
             'ini semua salahmu'
         ],
+        'aku belum mau pacaran' => [
+            'aku pengen punya pacar, tapi bukan (yang kayak) kamu'
+        ],
     ];
 }
