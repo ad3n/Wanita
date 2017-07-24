@@ -36,14 +36,16 @@ class Dictionary
             'egois banget jadi cowok',
         ],
         'cie selamat ya' => [
-            'enak banget sih lo, coba gue aja'
+            'enak banget sih lo, coba gue aja',
+            'halah, cuma gitu doang'
         ],
         'oke, aku yang salah' => [
             'dasar cowok egois',
             'ini semua salahmu'
         ],
         'aku belum mau pacaran' => [
-            'aku pengen punya pacar, tapi bukan (yang kayak) kamu'
+            'aku pengen punya pacar, tapi bukan (yang kayak) kamu',
+            'aku maunya kamu jadi abang atau temen cowok deket ku aja'
         ],
     ];
 }
